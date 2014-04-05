@@ -9,23 +9,9 @@
 		</a>
 	<a href="https://artech.k12.mn.us/">		</a>
 	</ul>
-		<p> <a href= "https://artech.k12.mn.us/Home">-Project Idea Generator</a></p>
+		<p>Get Started</p>
 			<ul>
 					<li>Having trouble coming up with a project idea? This project idea generator will help you come up with the best project for you! The generator will give you a project that will both challenge you and help you on your way to making a project that will actually benefit  you in the future!</li>
-				</ul>
-		<p> <a href= "https://artech.k12.mn.us/Home">-Tutorials</p></p>
-		<ul>
-					<li>Here we have a selection of tutorials on making a great project</li>
-				</ul>
-					<p> <a href= "https://artech.k12.mn.us/Home">-News</p></p>
-		<ul>
-					<li>Stay in touch with the most recent news stories, projects, and articles!</li>
-				</ul>
-		<p> <a href= "https://artech.k12.mn.us/Home">-Contact Us</p></p>
-			<ul>
-					<li>Questions? Concerns? We have a dedicated team here to respond and answer any questions you may have</li>
-				</ul>
-		</a>
 		<h2>About Us!</h2>
 		<ol>What type of project would you want to do!
 With this innovation we will help you on your way to a better project and a better career!
